@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         current(homeFragment)
 
-        btn_nav.setOnNavigationItemSelectedListener {
+        btm_nav.setOnNavigationItemSelectedListener {
             when(it.itemId)
             {
                 R.id.home -> current(homeFragment)
