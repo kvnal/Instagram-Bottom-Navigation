@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/selector_home"
+        />
+
+    <item android:id="@+id/reels"
+        android:title="reels"
+        android:icon="@drawable/selector_reels"
+        />
+
+    <item android:id="@+id/photos"
+        android:title="photos"
+        android:icon="@drawable/ic_outline_photos"
+        />
+
+    <item android:id="@+id/heart"
+        android:title="heart"
+        android:icon="@drawable/selector_heart"
+        />
+
+    <item android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/selector_profile"
+        />
+
+
+
+</menu>
